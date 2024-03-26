@@ -18,6 +18,7 @@ const About = () => {
 <Footer/>
 </div>
 
+
   )
 }
 

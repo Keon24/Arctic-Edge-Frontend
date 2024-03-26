@@ -1,6 +1,6 @@
 .cool-services-container {
     background-color: #eeeeeeee;
-    
+
   
 }
 .cool-services-title {
@@ -73,7 +73,11 @@
   padding: 20px;
   color: black;
   }
-  @media (max-width: 440px) {   
+
+  
+
+  @media only screen and (width: 412px) and (height: 915px) {
+ 
     .cool-services-container {
     font-size: 13px;
      padding: 70px;
@@ -85,33 +89,642 @@
     left: 10%;
     padding: 25px;
     width: 80%;
-
-   
+    line-height: 1.1;
+    
+    
     }
     .cool-services-description{
-     width: 120%;
-     height: 300px;
-     margin-left: 45px;
+
+     height: 250px;
+     margin-left: -9px;
+     width: 150%;
      
     }
     .cool-services-category-description {
       position: relative;
-      bottom:20%;
-      left: -10%;
+      bottom:10%;
+      left: 1%;
       padding: 25px;
+      width: 120%;
+  
+      
     }
     .cool-services-title {
      width: 100%;
      height: 50%;
-     margin-left: 40px;
+     margin-left: 23px;
     }
-   
-  }
-  @media (max-width: 390px) {
-    .cool-services-description {
-      padding: 20px;
-    } 
+    
+    }
+
+    @media only screen and (width: 412px) and (height: 883px) {
+ 
+      .cool-services-container {
+      font-size: 13px;
+       padding: 70px;
+       margin-left: -90px;
+      }
+      .cool-services-category-name{
+      position: relative;
+      bottom:20%;
+      left: 10%;
+      padding: 25px;
+      width: 80%;
+      line-height: 1.1;
+      
+      
+      }
+      .cool-services-description{
+  
+       height: 250px;
+       margin-left: -9px;
+       width: 150%;
+       
+      }
+      .cool-services-category-description {
+        position: relative;
+        bottom:10%;
+        left: 1%;
+        padding: 25px;
+        width: 120%;
+    
+        
+      }
+      .cool-services-title {
+       width: 100%;
+       height: 50%;
+       margin-left: 23px;
+      }
+      
+      }
+
+      @media only screen and (width: 360px) and (height: 640px) {
+ 
+        .cool-services-container {
+        font-size: 13px;
+         padding: 70px;
+         margin-left: -90px;
+        }
+        .cool-services-category-name{
+        position: relative;
+        bottom:20%;
+        left: 10%;
+        padding: 25px;
+        width: 80%;
+        line-height: 1.1;
+        
+        
+        }
+        .cool-services-description{
+    
+         height: 250px;
+         margin-left: 5px;
+         width: 150%;
+         
+        }
+        .cool-services-category-description {
+          position: relative;
+          bottom:10%;
+          left: 1%;
+          padding: 25px;
+          width: 120%;
+      
+          
+        }
+        .cool-services-title {
+         width: 100%;
+         height: 50%;
+         margin-left: 10px;
+        }
+        
+        }
+
+        @media only screen and (width: 414px) and (height: 846px) {
+ 
+          .cool-services-container {
+          font-size: 13px;
+           padding: 70px;
+           margin-left: -90px;
+          }
+          .cool-services-category-name{
+          position: relative;
+          bottom:20%;
+          left: 10%;
+          padding: 25px;
+          width: 80%;
+          line-height: 1.1;
+          
+          
+          }
+          .cool-services-description{
+      
+           height: 250px;
+           margin-left: -9px;
+           width: 150%;
+           
+          }
+          .cool-services-category-description {
+            position: relative;
+            bottom:10%;
+            left: 1%;
+            padding: 25px;
+            width: 120%;
+        
+            
+          }
+          .cool-services-title {
+           width: 100%;
+           height: 50%;
+           margin-left: 23px;
+          }
+          
+          }
+
+          @media only screen and (width: 360px) and (height: 760px) {
+ 
+            .cool-services-container {
+            font-size: 13px;
+             padding: 70px;
+             margin-left: -90px;
+            }
+            .cool-services-category-name{
+            position: relative;
+            bottom:20%;
+            left: 10%;
+            padding: 25px;
+            width: 80%;
+            line-height: 1.1;
+            
+            
+            }
+            .cool-services-description{
+        
+             height: 250px;
+             margin-left: 5px;
+             width: 150%;
+             
+            }
+            .cool-services-category-description {
+              position: relative;
+              bottom:10%;
+              left: 1%;
+              padding: 25px;
+              width: 120%;
+          
+              
+            }
+            .cool-services-title {
+             width: 100%;
+             height: 50%;
+             margin-left: 10px;
+            }
+            
+            }
+
+            @media only screen and (width: 360px) and (height: 800px) {
+ 
+              .cool-services-container {
+              font-size: 13px;
+               padding: 70px;
+               margin-left: -90px;
+              }
+              .cool-services-category-name{
+              position: relative;
+              bottom:20%;
+              left: 10%;
+              padding: 25px;
+              width: 80%;
+              line-height: 1.1;
+              
+              
+              }
+              .cool-services-description{
+          
+               height: 250px;
+               margin-left: 5px;
+               width: 150%;
+               
+              }
+              .cool-services-category-description {
+                position: relative;
+                bottom:10%;
+                left: 1%;
+                padding: 25px;
+                width: 120%;
+            
+                
+              }
+              .cool-services-title {
+               width: 100%;
+               height: 50%;
+               margin-left: 10px;
+              }
+              
+              }
+              @media only screen and (width: 384px) and (height: 854px) {
+ 
+                .cool-services-container {
+                font-size: 13px;
+                 padding: 70px;
+                 margin-left: -90px;
+                }
+                .cool-services-category-name{
+                position: relative;
+                bottom:20%;
+                left: 10%;
+                padding: 25px;
+                width: 80%;
+                line-height: 1.1;
+                
+                
+                }
+                .cool-services-description{
+            
+                 height: 250px;
+                 margin-left: -9px;
+                 width: 150%;
+                 
+                }
+                .cool-services-category-description {
+                  position: relative;
+                  bottom:10%;
+                  left: 1%;
+                  padding: 25px;
+                  width: 120%;
+              
+                  
+                }
+                .cool-services-title {
+                 width: 100%;
+                 height: 50%;
+                 margin-left: 23px;
+                }
+                
+                }
+
+                @media only screen and (width: 360px) and (height: 740px) {
+ 
+                  .cool-services-container {
+                  font-size: 13px;
+                   padding: 70px;
+                   margin-left: -90px;
+                  }
+                  .cool-services-category-name{
+                  position: relative;
+                  bottom:20%;
+                  left: 10%;
+                  padding: 25px;
+                  width: 80%;
+                  line-height: 1.1;
+                  
+                  
+                  }
+                  .cool-services-description{
+              
+                   height: 250px;
+                   margin-left: 5px;
+                   width: 150%;
+                   
+                  }
+                  .cool-services-category-description {
+                    position: relative;
+                    bottom:10%;
+                    left: 1%;
+                    padding: 25px;
+                    width: 120%;
+                
+                    
+                  }
+                  .cool-services-title {
+                   width: 100%;
+                   height: 50%;
+                   margin-left: 13px;
+                  }
+                  
+                  }
+
+                  @media only screen and (width: 375px) and (height: 812px) {
+ 
+                    .cool-services-container {
+                    font-size: 13px;
+                     padding: 70px;
+                     margin-left: -90px;
+                    }
+                    .cool-services-category-name{
+                    position: relative;
+                    bottom:20%;
+                    left: 10%;
+                    padding: 25px;
+                    width: 80%;
+                    line-height: 1.1;
+                    
+                    
+                    }
+                    .cool-services-description{
+                
+                     height: 250px;
+                     margin-left: 5px;
+                     width: 150%;
+                     
+                    }
+                    .cool-services-category-description {
+                      position: relative;
+                      bottom:10%;
+                      left: 1%;
+                      padding: 25px;
+                      width: 120%;
+                  
+                      
+                    }
+                    .cool-services-title {
+                     width: 100%;
+                     height: 50%;
+                     margin-left: 17px;
+                    }
+                    
+                    }
+
+                    @media only screen and (width: 414px) and (height: 896px) {
+ 
+                      .cool-services-container {
+                      font-size: 13px;
+                       padding: 70px;
+                       margin-left: -90px;
+                      }
+                      .cool-services-category-name{
+                      position: relative;
+                      bottom:20%;
+                      left: 10%;
+                      padding: 25px;
+                      width: 80%;
+                      line-height: 1.1;
+                      
+                      
+                      }
+                      .cool-services-description{
+                  
+                       height: 250px;
+                       margin-left: -9px;
+                       width: 150%;
+                       
+                      }
+                      .cool-services-category-description {
+                        position: relative;
+                        bottom:10%;
+                        left: 1%;
+                        padding: 25px;
+                        width: 120%;
+                    
+                        
+                      }
+                      .cool-services-title {
+                       width: 100%;
+                       height: 50%;
+                       margin-left: 23px;
+                      }
+                      
+                      }
+                      @media only screen and (width: 390px) and (height: 844px) {
+ 
+                        .cool-services-container {
+                        font-size: 13px;
+                         padding: 70px;
+                         margin-left: -90px;
+                        }
+                        .cool-services-category-name{
+                        position: relative;
+                        bottom:20%;
+                        left: 10%;
+                        padding: 25px;
+                        width: 80%;
+                        line-height: 1.1;
+                        
+                        
+                        }
+                        .cool-services-description{
+                    
+                         height: 250px;
+                         margin-left: -9px;
+                         width: 150%;
+                         
+                        }
+                        .cool-services-category-description {
+                          position: relative;
+                          bottom:10%;
+                          left: 1%;
+                          padding: 25px;
+                          width: 120%;
+                      
+                          
+                        }
+                        .cool-services-title {
+                         width: 100%;
+                         height: 50%;
+                         margin-left: 23px;
+                        }
+                        
+                        }
+
+                        @media only screen and (width: 428px) and (height: 926px) {
+ 
+                          .cool-services-container {
+                          font-size: 13px;
+                           padding: 70px;
+                           margin-left: -90px;
+                          }
+                          .cool-services-category-name{
+                          position: relative;
+                          bottom:20%;
+                          left: 10%;
+                          padding: 25px;
+                          width: 80%;
+                          line-height: 1.1;
+                          
+                          
+                          }
+                          .cool-services-description{
+                      
+                           height: 250px;
+                           margin-left: -9px;
+                           width: 150%;
+                           
+                          }
+                          .cool-services-category-description {
+                            position: relative;
+                            bottom:10%;
+                            left: 1%;
+                            padding: 25px;
+                            width: 120%;
+                        
+                            
+                          }
+                          .cool-services-title {
+                           width: 100%;
+                           height: 50%;
+                           margin-left: 42px;
+                          }
+                          
+                          }
+                          @media only screen and (width: 320px) and (height: 568px) {
+ 
+                            .cool-services-container {
+                            font-size: 13px;
+                             padding: 70px;
+                             margin-left: -90px;
+                            margin-bottom: 0%;
+                            }
+                            .cool-services-category-name{
+                            position: relative;
+                            bottom:20%;
+                            left: 10%;
+                            padding: 25px;
+                            width: 80%;
+                            line-height: 1.1;
+                            
+                            
+                            }
+                            .cool-services-description{
+                        
+                             height: 250px;
+                             margin-left: -10px;
+                             width: 170%;
+                             
+                            }
+                            .cool-services-category-description {
+                              position: relative;
+                              bottom:10%;
+                              left: 1%;
+                              padding: 25px;
+                              width: 120%;
+                          
+                              
+                            }
+                            .cool-services-title {
+                             width: 100%;
+                             height: 50%;
+                             margin-left: -5px;
+                            }
+                            
+                            }
+
+                            @media only screen and (width: 375px) and (height: 667px) {
+ 
+                              .cool-services-container {
+                              font-size: 13px;
+                               padding: 70px;
+                               margin-left: -90px;
+                              }
+                              .cool-services-category-name{
+                              position: relative;
+                              bottom:20%;
+                              left: 10%;
+                              padding: 25px;
+                              width: 80%;
+                              line-height: 1.1;
+                              
+                              
+                              }
+                              .cool-services-description{
+                          
+                               height: 250px;
+                               margin-left: -9px;
+                               width: 150%;
+                               
+                              }
+                              .cool-services-category-description {
+                                position: relative;
+                                bottom:10%;
+                                left: 1%;
+                                padding: 25px;
+                                width: 120%;
+                            
+                                
+                              }
+                              .cool-services-title {
+                               width: 100%;
+                               height: 50%;
+                               margin-left: 23px;
+                              }
+                              
+                              }
+
+                              @media only screen and (width: 414px) and (height: 736px) {
+ 
+                                .cool-services-container {
+                                font-size: 13px;
+                                 padding: 70px;
+                                 margin-left: -90px;
+                                }
+                                .cool-services-category-name{
+                                position: relative;
+                                bottom:20%;
+                                left: 10%;
+                                padding: 25px;
+                                width: 80%;
+                                line-height: 1.1;
+                                
+                                
+                                }
+                                .cool-services-description{
+                            
+                                 height: 250px;
+                                 margin-left: -9px;
+                                 width: 150%;
+                                 
+                                }
+                                .cool-services-category-description {
+                                  position: relative;
+                                  bottom:10%;
+                                  left: 1%;
+                                  padding: 25px;
+                                  width: 120%;
+                              
+                                  
+                                }
+                                .cool-services-title {
+                                 width: 100%;
+                                 height: 50%;
+                                 margin-left: 23px;
+                                }
+                                
+                                }
+                                @media only screen and (width: 412px) and (height: 915px) {
+ 
+    .cool-services-container {
+    font-size: 13px;
+     padding: 70px;
+     margin-left: -90px;
+    }
+    .cool-services-category-name{
+    position: relative;
+    bottom:20%;
+    left: 10%;
+    padding: 25px;
+    width: 80%;
+    line-height: 1.1;
+    
+    
+    }
+    .cool-services-description{
+
+     height: 250px;
+     margin-left: -9px;
+     width: 150%;
+     
+    }
+    .cool-services-category-description {
+      position: relative;
+      bottom:10%;
+      left: 1%;
+      padding: 25px;
+      width: 120%;
+  
+      
+    }
     .cool-services-title {
-      margin-left: 20px;
+     width: 100%;
+     height: 50%;
+     margin-left: 23px;
     }
-  }
+    
+    }

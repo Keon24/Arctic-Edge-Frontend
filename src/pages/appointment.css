@@ -7,10 +7,10 @@ body {
 
 .appt-container {
     position: relative;
-    height: 50vh;
+    height: 80vh;
 }
 .appt-image {
-  height:100%;
+  height:50vh;
   width: 100%;
   object-fit: cover;
 }
@@ -26,8 +26,104 @@ left: 42%;
   color: #ffffff;
 
 }
-@media(max-width: 430px) {
-  .appt-content h1 {
-    margin-left: -70px;
+
+
+@media only screen and (width: 360px) and (height: 760px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
   }
-}
+  @media only screen and (width: 412px) and (height: 915px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+  @media only screen and (width: 412px) and (height: 883px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+  @media only screen and (width: 360px) and (height: 640px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 414px) and (height: 846px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 360px) and (height: 800px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+  @media only screen and (width: 384px) and (height: 854px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 360px) and (height: 740px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 375px) and (height: 812px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 414px) and (height: 896px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 390px) and (height: 844px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 428px) and (height: 926px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+  @media only screen and (width: 320px) and (height: 568px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 375px) and (height: 667px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }
+
+  @media only screen and (width: 414px) and (height: 736px) {
+    .appt-content h1 {
+      margin-left: -80px;
+      margin-top: -40%;
+    }
+  }

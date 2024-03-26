@@ -106,7 +106,7 @@
    height: auto;
     box-sizing: border-box; 
     margin-top: 80px; 
-    margin-left: -35px;
+    margin-left: -45px;
     padding: 0 20px;
   }
   .login {
@@ -135,4 +135,36 @@
     margin-left: -56px;
   }
 
+}
+
+@media (max-width: 412px) {
+  .contact-container {
+    margin-left: -1%;
+  }
+}
+@media (max-width: 360px) {
+  .contact-container{
+    margin-left: -47px;
+  }
+}
+
+@media (max-width: 414px) {
+  .contact-container {
+    margin-left: -6px;
+  }
+}
+@media(max-width:384px) {
+  .contact-container {
+    margin-left: -38px;
+  }
+}
+@media(max-width: 375px) {
+  .contact-container {
+    margin-left: -46px;
+  }
+}
+@media only screen and (width: 390px) and (height: 844px) {
+.contact-container {
+  margin-left: -40px;
+}
 }

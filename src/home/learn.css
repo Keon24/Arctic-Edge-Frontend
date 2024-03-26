@@ -110,3 +110,71 @@
       left: -60%
     }
   }
+
+  @media only screen and (width: 412px) and (height:883px) {
+   .image-content p {
+   padding: 10px;
+   color:#eeeeee;
+
+   }
+   .image-content h1 {
+    margin-left: 200px;
+    color: #fff;
+    font-weight: 700;
+   }
+   .learn-button {
+    padding: 15px;
+   }
+  }
+  @media only screen and (width: 360px) and (height: 640px) {
+    .image-content h1 {
+      margin-top: 20px; 
+      font-size: 24px;
+     font-weight: 700;
+
+    }
+    .image-content p {
+      font-size: 16px;
+ 
+    }
+    .learn-button {
+      padding: 17px;
+    }
+  }
+  
+  @media only screen and (width: 414px) and (height: 846px) {
+    .learn-button {
+      padding: 20px;
+    }
+  }
+
+  @media only screen and (width: 360px) and (height: 760px) {
+    .learn-button {
+      padding: 17px;
+    }
+  }
+  @media only screen and (width: 412px) and (height: 915px) {
+   .learn-button {
+    padding: 20px;
+   }
+  }
+  @media only screen and (width: 360px) and (height: 800px) {
+    .learn-button {
+      padding: 17px;
+    }
+  }
+  @media only screen and (width: 360px) and (height: 740px) {
+    .learn-button {
+      padding: 17px;
+    }
+  }
+  @media only screen and (width: 414px) and (height: 896px) {
+    .learn-button {
+      padding: 20px;
+    }
+  }
+  @media only screen and (width: 414px) and (height: 736px) {
+    .learn-button {
+      padding: 20px;
+    }
+  }

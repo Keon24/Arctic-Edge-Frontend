@@ -65,15 +65,647 @@
     border: 5px solid #ffffff;
   }
 
-
-@media(max-width:390px) {
-  .project-container {
-    margin-left: 40px;
-    padding:29px;
+  @media only screen and (width: 412px) and (height: 883px) {
+  
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+  
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
   }
-  .stats-container {
-   background-size: 10%;
+  
+  @media only screen and (width: 412px) and (height: 915px) {
+  
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
   }
-}
+  
+  @media only screen and (width: 360px) and (height: 640px) {
+   
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+    .stats-container {
+      padding: 120px;
+    }
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 12px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 414px) and (height: 846px) {
+   
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  
+  @media only screen and (width: 360px) and (height: 760px) {
+    .project-container {
+    margin: 55px;
+    
+    }
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 360px) and (height: 800px) {
+    .project-container {
+     margin: 55px;
+    }
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+  
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 384px) and (height: 854px) {
+    
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+    
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 360px) and (height: 640px) {
+   
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      width:60%;
+      padding: 10px; 
+      font-size: 19px; 
+      margin-left: 20%;
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 32px; 
+    }
+  
+    .project-content p {
+      width: 70%;
+      margin: 0 auto;
+      padding: 0px; 
+      font-size: 17px; 
+      margin-bottom: 25%;
+    }
+  }
+  
+  @media only screen and (width: 360px) and (height: 740px) {
+    .project-container {
+     margin: 125px;
+    }
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      width: 80%;
+      margin: 0 auto;
+      padding: 10px; 
+      font-size: 15px; 
+      margin-bottom: 130px;
+    }
+  }
+  
+  @media only screen and (width: 375px) and (height: 812px) {
+    
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 414px) and (height: 896px) {
+    
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+  
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
 
-
+  @media only screen and (width: 390px) and (height: 844px) {
+    
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 375px) and (height: 812px) {
+   
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+  
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 428px) and (height: 926px) {
+   
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+  
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  @media only screen and (width: 320px) and (height: 568px) {
+    
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+    
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 375px) and (height: 667px) {
+    .project-container {
+     margin: 65px;
+    }
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+   
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  
+  @media only screen and (width: 414px) and (height: 736px) {
+    .project-container {
+    margin: 65px;
+    }
+  
+    .project-content {
+      padding: 10px; 
+    }
+  
+    .project-content .stat h2:nth-of-type(4) {
+      padding: 10px; 
+      font-size: 12px; 
+    }
+  
+    
+  
+    .stat {
+      margin: 0 auto;
+      font-size: 17px; 
+      font-weight: 700;
+      padding: 5px; 
+    }
+  
+    .last-h2 {
+      padding: 10px; 
+      font-size: 17px; 
+    }
+  
+    .project-stat {
+      padding: 5px; 
+      font-size: 62px; 
+    }
+  
+    .project-content p {
+      padding: 10px; 
+      font-size: 15px; 
+    }
+  }
+  

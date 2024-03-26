@@ -18,7 +18,6 @@
   display: flex;
 
 
- background-color: #EEEEEE;
  
 }
 
@@ -37,7 +36,7 @@
   font-weight: 700px;
   line-height: 48.8px;
   color: #1e17a1;
-  background-color: #EEEEEE;
+ 
   word-spacing: 0px;
   margin-left: -5px;
   
@@ -48,7 +47,7 @@
 
 .hero-left p {
   color: #404e5c; 
-  background-color: #EEEEEE;
+ 
   font-size: 17px; 
   font-weight: 700px;
   line-height: 31.5714px;
@@ -113,4 +112,36 @@
     line-height: 20px;
     padding: 0px;
   }
+  .hero-left p {
+    margin-left: -10%;
+  }
 }
+@media(max-width: 360px) {
+  .hero-left h1 {
+   margin-top: -30%;
+  }
+  .hero-left p {
+    width: 55%;
+   
+  }
+}
+
+@media(max-width: 384px) {
+  .hero-left p {
+    margin-left: -60px;
+  }
+}
+@media(max-width: 320px) {
+  .hero-left p {
+    width: 50%; 
+  }
+  .hero-left h1 {
+     margin-left: -28%;
+  }
+}
+@media only screen and (width: 375px) and (height: 667px) {
+  .hero-left h1 {
+    margin-top: -28%;
+ }
+}
+ 

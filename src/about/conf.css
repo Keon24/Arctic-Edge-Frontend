@@ -4,6 +4,8 @@
     height: 70vh;
     overflow: hidden;
     color: black;
+
+  
   }
   
   .conf-image {
@@ -11,6 +13,7 @@
     height: 100%;
     object-fit: cover;
     object-position: center;
+
  
   }
   
@@ -54,11 +57,11 @@
     
   }
 
-  @media(max-width: 432px) {
+/*@media(max-width: 432px) {
     .conf-content h1{
       margin-left: -260px;
     }
-    .conf-button {
+    .conf-button 
       display: block;
       height: 62.8589px;
       line-height: 24.592px;
@@ -103,4 +106,409 @@
     }
   
     
+  }*/
+
+  @media only screen and (width: 412px) and (height: 883px) {
+    .conf-content {
+      width: 100%;
+    }
+    .conf-button{
+      padding: 30px;
+      margin-left: 45%;
+      line-height: 2px;
+      margin-top: 2%
+    }
+    .conf-content h1 {
+      font-weight: 600;
+      margin-left: 25%;
+      padding: 20px;
+    }
+    .conf-content p{
+      margin-left: 27%;
+      line-height: 30px;
+  }
+  .conf-container {
+    padding: 20px;
+  }
+  }
+
+  @media only screen and (width: 412px) and (height: 915px) {
+  
+    .conf-button{
+      padding: 22px;
+      margin-left: 45%;
+      line-height: 2px;
+    }
+    .conf-content h1 {
+      font-weight: 600;
+      margin-left: 25%;
+      padding: 20px;
+    }
+    .conf-content p {
+      width: 90%;
+      line-height: 28px;
+    }
+    .conf-container {
+      padding: 20px;
+    }
+  }
+  
+  @media only screen and (width: 414px) and (height: 846px) {
+    
+    .conf-button{
+      padding: 22px;
+      margin-left: 45%;
+      line-height: 2px;
+    }
+    .conf-content h1 {
+      font-weight: 600;
+      margin-left: 25%;
+      padding: 20px;
+    }
+    .conf-content p {
+      width: 90%;
+      line-height: 28px;
+    }
+    .conf-container {
+      padding: 20px;
+    }
+  }
+
+  @media only screen and (width: 360px) and (height: 760px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 15%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 120px; 
+      
+      padding-left: 20px; 
+    
+    }
+    .conf-container {
+      padding: 12px;
+    }
+ 
+  }
+  
+
+  @media only screen and (width: 360px) and (height: 640px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 20%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 20px; 
+    
+    }
+ 
+  }
+  
+  @media only screen and (width: 360px) and (height: 800px) {
+    .conf-content {
+      width: 100%;
+    }
+    .conf-button{
+      padding: 23px;
+      margin-left: 45%;
+      line-height: 2px;
+      margin-top: -3%
+    }
+    .conf-content h1 {
+      font-weight: 600;
+      margin-left: 25%;
+      padding: 20px;
+    }
+    .conf-content p{
+      margin-left: 27%;
+      line-height: 30px;
+  }
+  .conf-container {
+    padding: 20px;
+  }
+  }
+
+  @media only screen and (width: 384px) and (height: 854px) {
+    .conf-content {
+      width: 100%;
+    }
+    .conf-button{
+      padding: 30px;
+      margin-left: 45%;
+      line-height: 2px;
+      margin-top: 2%
+    }
+    .conf-content h1 {
+      font-weight: 600;
+      margin-left: 25%;
+      padding: 20px;
+    }
+    .conf-content p{
+      margin-left: 27%;
+      line-height: 30px;
+  }
+  .conf-container {
+    padding: 20px;
+  }
+  }
+
+  @media only screen and (width: 360px) and (height: 640px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+
+  }
+  @media only screen and (width: 360px) and (height: 740px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 115px; 
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:12px;
+ }
+
+
+  }
+
+  @media only screen and (width: 375px) and (height: 812px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+ 
+  }
+  @media only screen and (width: 414px) and (height: 896px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+ 
+  }
+
+  @media only screen and (width: 390px) and (height: 844px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+
+  }
+
+  @media only screen and (width: 428px) and (height: 926px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+
+  }
+
+  @media only screen and (width: 375px) and (height: 667px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 12px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:2px;
+ }
+
+ 
+  }
+
+  @media only screen and (width: 414px) and (height: 736px) {
+    .conf-button {
+      padding: 22px;
+      width: 40%;
+      margin: 0 auto;
+      line-height: 2px;
+      margin-bottom: 8%;
+      margin-right: -2px;
+    }
+  
+    .conf-content h1 {
+      font-weight: 600;
+      text-align: center;
+      margin-top: 9%;
+      transform: translateX(-130px);
+    }
+    .conf-content p {
+      margin-left: 100px; 
+      
+      padding-left: 22px; 
+    
+    }
+ .conf-container{
+  margin-bottom: 10%;
+  padding:20px;
+ }
+
+ 
   }

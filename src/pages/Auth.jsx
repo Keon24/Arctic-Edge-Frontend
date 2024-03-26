@@ -73,7 +73,7 @@ const Login = () => {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try{
-    const result = await axios.post("http://localhost:5000/user/login", {
+    const result = await axios.post("https://arctic-edge-server.onrender.com/user/login", {
       username,
       password
     });

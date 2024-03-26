@@ -13,7 +13,9 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="nav-logo">
-        <img src={logo} alt=""/>
+        <Link to ="/">
+        <img src={logo} alt="logo"/>
+        </Link>
       </div>
 
       <ul className={`nav-menu ${menuVisible ? 'active' : ''}`}>

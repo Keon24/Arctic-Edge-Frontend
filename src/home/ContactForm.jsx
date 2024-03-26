@@ -10,17 +10,17 @@ const ContactForm = () => {
   const [message, setMessage] = useState('');
   const [isSubmitted, setIsSubmitted] = useState(false);
 
-  const handleSubmit = async (event) => { // Add async keyword for asynchronous Axios call
+  const handleSubmit = async (event) => { 
     event.preventDefault();
     try {
-      // Send form data to the server using Axios
-      await axios.post("http://localhost:5000/contact/submit-contact", {
+      
+      await axios.post("https://arctic-edge-server.onrender.com/contact/submit-contact", {
         name,
         email,
         phone,
         message,
       });
-      setIsSubmitted(true); // Update isSubmitted state after successful submission
+      setIsSubmitted(true); 
     } catch (error) {
       console.error('Error:', error.message);
       alert('Error sending message: ' + error.message);

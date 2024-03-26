@@ -68,3 +68,157 @@
     }
   }
   
+  @media only screen and (width: 360px) and (height: 640px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+    
+  }
+
+  @media only screen and (width: 360px) and (height: 760px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+   
+  }
+
+  @media only screen and (width: 360px) and (height: 800px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+  
+  }
+
+  @media only screen and (width: 384px) and (height: 854px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+   
+  }
+
+  @media only screen and (width: 360px) and (height: 740px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+   
+  }
+
+  @media only screen and (width: 375px) and (height: 812px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+  
+  }
+
+  @media only screen and (width: 414px) and (height: 896px) {
+    .image-card {
+       margin-left: 7%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+   
+  }
+
+  @media only screen and (width: 390px) and (height: 844px) {
+    .image-card {
+       margin-left: 7%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+ 
+  }
+
+  @media only screen and (width: 320px) and (height: 568px) {
+    .image-card {
+       margin-left: 1%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+  
+  }
+
+
+  @media only screen and (width: 375px) and (height: 667px) {
+    .image-card {
+       margin-left: 5%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+   
+  }
+
+  @media only screen and (width: 414px) and (height: 736px) {
+    .image-card {
+       margin-left: 9%;
+     
+    }
+    .image-p {
+    font-size: 15px;
+    }
+    .image-title {
+     margin-top:-5%;
+    }
+  
+  }

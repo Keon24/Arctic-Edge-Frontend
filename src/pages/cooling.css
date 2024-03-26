@@ -7,7 +7,7 @@ body {
 
 .cooling-container {
     position: relative;
-    height: 50vh;
+    height: 75vh;
 }
 .cooling-image {
   height:130%;
@@ -24,4 +24,150 @@ left:38%;
   font-size: 40px;
   font-weight: 700;
   color: #ffffff
+}
+
+@media only screen and (width: 414px) and (height: 896px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 98%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 412px) and (height: 915px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 412px) and (height: 883px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 118%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 640px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 118%;
+    right: 40%;
+    
+  }
+}
+@media only screen and (width: 414px) and (height: 846px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 760px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 800px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 412px) and (height: 915px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 98%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 384px) and (height: 854px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 640px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 98%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 740px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 375px) and (height: 812px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 414px) and (height: 896px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 390px) and (height: 844px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 375px) and (height: 812px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 98%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 428px) and (height: 926px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 375px) and (height: 667px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+@media only screen and (width: 414px) and (height: 736px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 108%;
+    right: 40%;
+  }
+}
+
+@media only screen and (width: 414px) and (height: 896px) {
+  .cooling-content h1 {
+    position: relative;
+    bottom: 98%;
+    right: 40%;
+  }
 }

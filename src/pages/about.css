@@ -2,12 +2,13 @@
 
 
 body {
+  overflow-x: hidden;
   font-family: 'Barlow', sans-serif;
 }
 
 .about-container{
  position: relative;
-  height: 60vh;
+  height: 80vh;
 }
 .about-image {
     height: 130%;
@@ -41,5 +42,78 @@ body {
   .about-image {
    width: 100%;
     height: auto; 
+  }
+}
+
+@media only screen and (width: 412px) and (height: 915px) {
+  .about-content h1 {
+ margin-top: -160%
+  }
+}
+@media only screen and (width: 412px) and (height: 883px) {
+  .about-content h1 {
+    margin-top: -150%
+  }
+}
+@media only screen and (width: 414px) and (height: 846px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+@media only screen and (width: 360px) and (height: 760px) {
+  .about-content h1 {
+    margin-top: -130%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 800px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+
+@media only screen and (width: 384px) and (height: 854px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+@media only screen and (width: 360px) and (height: 800px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+@media only screen and (width: 360px) and (height: 640px) {
+  .about-content h1 {
+    margin-top: -100%;
+  }
+}
+
+@media only screen and (width: 360px) and (height: 800px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+
+@media only screen and (width: 375px) and (height: 812px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+
+@media only screen and (width: 414px) and (height: 896px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+
+@media only screen and (width: 390px) and (height: 844px) {
+  .about-content h1 {
+    margin-top: -140%;
+  }
+}
+
+@media only screen and (width: 428px) and (height: 926px) {
+  .about-content h1 {
+    margin-top: -140%;
   }
 }
